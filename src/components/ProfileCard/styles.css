@@ -1,0 +1,179 @@
+
+.custom-container {
+  width: 330px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.border-light {
+  border: 1px solid #c0c6cb;
+}
+
+.border-dark-100 {
+  border: 1px solid #001521;
+}
+
+.outline-none {
+  outline: none;
+}
+
+.bg-light {
+  background-color: #ffffff;
+}
+
+.bg-dark-100 {
+  background-color: #001521;
+}
+
+.fs-1 {
+  font-size: 18px;
+}
+
+.fs-2 {
+  font-size: 14px;
+}
+
+.fs-3 {
+  font-size: 13px;
+}
+
+.fs-4 {
+  font-size: 12px;
+}
+.custom-padding-y {
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.custom-padding-x {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.custom-padding-bottom {
+  padding-bottom: 18px;
+}
+
+.text-black-100 {
+  color: #001521;
+}
+
+.text-grey-100 {
+  color: #A3ABB2;
+}
+
+.text-black-70 {
+  color: #46555F;
+  opacity: 0.7;
+}
+
+.profile-avatar {
+  height: 56px;
+  width: 56px;
+  border-radius: 50%;
+  border: 1px solid #ffffff;
+}
+
+.shadow-light {
+  box-shadow: 0px 0px 0px 4px #e6e8eb;
+}
+
+.shadow-dark {
+  box-shadow: 0px 0px 0px 4px #2A3B46;
+}
+
+.user-info-container {
+  margin: 0 0 16px 12px;
+}
+.user-info-container-loader {
+  margin: -15px 0 0 12px;
+}
+.user-activity {
+  padding: 14px 0;
+}
+
+.custom-border-bottom-light {
+  border-bottom: 2px solid #dadee2;
+}
+
+.custom-border-right-light {
+  border-right: 2px solid #dadee2;
+}
+
+.custom-border-bottom-dark {
+  border-bottom: 2px solid #2A3b46;
+}
+
+.custom-border-right-dark {
+  border-right: 2px solid #2A3b46;
+}
+
+.graph-container-light {
+  background-color: #F8F9FA !important;
+}
+
+.graph-container-dark {
+  background-color: #122531 !important;
+}
+
+.graph-activity-button {
+  margin-left: 12px;
+  margin-top: 14px;
+  margin-bottom: 16px;
+}
+
+.graph-activity-button:focus {
+  outline: none !important;
+}
+
+.custom-bg-gray {
+  background-color: #E6E8EB!important;
+}
+
+.graph-activity-dropdown {
+  top: 40px;
+  width: 55%;
+  right: 0;
+  border-radius: 8px;
+  list-style: none;
+}
+
+
+.graph-activity-dropdown li {
+  padding: 14px 20px 14px 20px;
+}
+
+.graph-activity-dropdown li:hover {
+  background-color: #E6E8EB;
+}
+
+.fill-area {
+  fill: url(#graph-gradient);
+}
+
+.tooltip {
+  position: absolute;
+  border-radius: 2px;
+  font-size: 12px;
+  text-align: center;
+  padding: 4px;
+  margin: auto;
+  height: 43px;
+  width: 43px;
+}
+
+.triangle-down {
+  position: absolute;
+  height: 0;
+  width: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+}
+
+.triangle-down-light {
+  border-top: 10px solid #001521;
+}
+
+.triangle-down-dark {
+  border-top: 10px solid #ffffff;
+}
